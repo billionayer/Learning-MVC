@@ -1,6 +1,8 @@
  bin
  obj
  *.suo
+ *.v12.suo
+ 
  *.user
  *.sln.docstates
  
