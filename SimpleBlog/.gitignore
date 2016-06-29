@@ -1,0 +1,16 @@
+ bin
+ obj
+ *.suo
+ *.v12.suo
+ *.user
+ *.sln.docstates
+ 
+ [Dd]ebug/
+ [Rr]elese/
+ *.obj
+ *.pdb
+ 
+ _Resharper*
+ 
+ Thumbs.db
+ Desktop.ini
