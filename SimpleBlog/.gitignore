@@ -4,6 +4,8 @@
  *.v12.suo
  *.user
  *.sln.docstates
+ *.cache
+ *.force
  
  [Dd]ebug/
  [Rr]elese/
